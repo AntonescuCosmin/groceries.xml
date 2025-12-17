@@ -1,0 +1,26 @@
+      [
+        {
+        "name": "Tomatoes",
+        "Perishable": "Yes",
+        "Price": 10,
+        "Expiration Date": 183014400000
+        },
+        {
+          "name": "Potatoes",
+       "Perishable": "Yes",
+      "Price": 5,
+        "Expiration Date": 1574985600000
+        },
+        {
+        "name": "Garlic",
+      "Perishable": "No",
+       "Price": 3,
+        "Expiration Date": 1483660800000
+        },
+        {
+          "name": "Chicken",
+       "Perishable": "Yes",
+       "Price": 21,
+        "Expiration Date": 1290988800000
+        }
+        ]
